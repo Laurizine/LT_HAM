@@ -1,0 +1,3 @@
+﻿  006.cpp
+D:\SOURCE TDLT\LTHam\006\006.cpp(13,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  006.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\006.exe

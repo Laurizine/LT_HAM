@@ -1,0 +1,7 @@
+﻿  126.cpp
+D:\SOURCE TDLT\LTHam\126\126.cpp(12,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SOURCE TDLT\LTHam\126\126.cpp(12,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SOURCE TDLT\LTHam\126\126.cpp(18,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\126\126.cpp(20,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\126\126.cpp(21,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  126.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\126.exe

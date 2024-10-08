@@ -1,0 +1,4 @@
+﻿  024.cpp
+D:\SOURCE TDLT\LTHam\024\024.cpp(10,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\024\024.cpp(17,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  024.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\024.exe

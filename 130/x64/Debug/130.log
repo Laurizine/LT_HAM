@@ -1,0 +1,5 @@
+﻿  130.cpp
+D:\SOURCE TDLT\LTHam\130\130.cpp(20,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\130\130.cpp(20,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\130\130.cpp(20,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  130.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\130.exe

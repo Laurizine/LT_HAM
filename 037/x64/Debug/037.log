@@ -1,0 +1,3 @@
+﻿  037.cpp
+D:\SOURCE TDLT\LTHam\037\037.cpp(23,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  037.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\037.exe

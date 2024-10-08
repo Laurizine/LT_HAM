@@ -1,0 +1,2 @@
+﻿026.obj : error LNK2019: unresolved external symbol "void __cdecl Hoanvi(int &,int &)" (?Hoanvi@@YAXAEAH0@Z) referenced in function main
+D:\SOURCE TDLT\LTHam\x64\Debug\026.exe : fatal error LNK1120: 1 unresolved externals

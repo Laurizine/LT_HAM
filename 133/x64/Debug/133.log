@@ -1,0 +1,17 @@
+﻿  133.cpp
+D:\SOURCE TDLT\LTHam\133\133.cpp(19,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(19,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(19,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(21,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(21,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(21,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(25,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(25,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(25,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(27,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(27,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(27,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(34,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(34,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\133\133.cpp(34,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  133.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\133.exe

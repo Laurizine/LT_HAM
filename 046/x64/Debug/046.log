@@ -1,0 +1,3 @@
+﻿  046.cpp
+D:\SOURCE TDLT\LTHam\046\046.cpp(22,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  046.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\046.exe

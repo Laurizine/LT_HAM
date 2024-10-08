@@ -1,0 +1,5 @@
+﻿  075.cpp
+D:\SOURCE TDLT\LTHam\075\075.cpp(28,11): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\075\075.cpp(30,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\075\075.cpp(33,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  075.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\075.exe

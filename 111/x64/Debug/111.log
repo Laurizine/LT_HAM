@@ -1,0 +1,8 @@
+﻿  111.cpp
+D:\SOURCE TDLT\LTHam\111\111.cpp(14,7): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SOURCE TDLT\LTHam\111\111.cpp(15,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\SOURCE TDLT\LTHam\111\111.cpp(15,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+111.obj : error LNK2019: unresolved external symbol "double __cdecl Tinh(float)" (?Tinh@@YANM@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "double __cdecl Tinh(int)" (?Tinh@@YANH@Z)
+D:\SOURCE TDLT\LTHam\x64\Debug\111.exe : fatal error LNK1120: 1 unresolved externals

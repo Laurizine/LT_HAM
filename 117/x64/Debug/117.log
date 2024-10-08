@@ -1,0 +1,3 @@
+﻿  117.cpp
+D:\SOURCE TDLT\LTHam\117\117.cpp(33,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  117.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\117.exe

@@ -1,0 +1,4 @@
+﻿  086.cpp
+D:\SOURCE TDLT\LTHam\086\086.cpp(29,11): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\086\086.cpp(34,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  086.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\086.exe

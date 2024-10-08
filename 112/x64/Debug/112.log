@@ -1,0 +1,4 @@
+﻿  112.cpp
+D:\SOURCE TDLT\LTHam\112\112.cpp(18,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SOURCE TDLT\LTHam\112\112.cpp(22,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  112.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\112.exe

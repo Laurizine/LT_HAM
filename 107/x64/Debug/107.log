@@ -1,0 +1,4 @@
+﻿  107.cpp
+D:\SOURCE TDLT\LTHam\107\107.cpp(21,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SOURCE TDLT\LTHam\107\107.cpp(27,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  107.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\107.exe

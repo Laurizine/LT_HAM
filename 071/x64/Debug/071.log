@@ -1,0 +1,6 @@
+﻿  071.cpp
+D:\SOURCE TDLT\LTHam\071\071.cpp(22,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\071\071.cpp(23,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\071\071.cpp(27,11): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\SOURCE TDLT\LTHam\071\071.cpp(31,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  071.vcxproj -> D:\SOURCE TDLT\LTHam\x64\Debug\071.exe

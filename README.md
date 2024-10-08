@@ -1,2 +1,2 @@
 # LT_HAM
-150 bài lập trình hàm cơ bản
+150 basic functional programing lessons in C++

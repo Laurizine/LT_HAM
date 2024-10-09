@@ -1,2 +1,2 @@
 # LT_HAM
-150 basic functional programing lessons in C++
+150 basic functional programing lessons in C++   - Open master Branchs
